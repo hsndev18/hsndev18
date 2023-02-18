@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Alshikh</h1>
-<h3 align="center">5+ years of experience web development and mobile applications. I'm official Certified Laravel Developer, expert in php Laravel framework, Drupal, flutter and great with operating and building servers and software environments for websites using Linux systems.</h3>
+<h3 align="center">5+ years of experience web development and mobile applications. I'm official Certified Laravel Developer, expert in php Laravel framework, Drupal, flutter and great with operating, building servers also software environments for websites using Linux systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsndev18&label=Profile%20views&color=0e75b6&style=flat" alt="hsndev18" /> </p>
 
