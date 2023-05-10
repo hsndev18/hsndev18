@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hsn_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hsn_dv?logo=twitter&style=for-the-badge" alt="hsn_dv" /></a> </p>
 
-- 🔭 I’m currently working on [Shaguf](https://shaguf.com/)
+<!-- - 🔭 I’m currently working on [Shaguf](https://shaguf.com/) -->
 
 - 🌱 I’m currently learning **Augmented reality, Virtual reality, IoT, and ML**
 
