@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Augmented reality, Virtual reality, IoT, and ML**
 
-- 💬 Ask me about **Laravel, PHP, Flutter, Dart, Python, Linux, Hosting, AWS etc.**
+- 💬 Ask me about **Laravel, PHP, Flutter, Dart, Python, Linux, Hosting, AWS, DevOps etc.**
 
 - 📫 How to reach me **s7s.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1soMV0F2gYhve-4qg_OmAkdifEmKVspV5](https://drive.google.com/file/d/1soMV0F2gYhve-4qg_OmAkdifEmKVspV5)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1skWhACD_v87EdGdd0O2NM5Db1TaPnwSR/view](https://drive.google.com/file/d/1skWhACD_v87EdGdd0O2NM5Db1TaPnwSR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
