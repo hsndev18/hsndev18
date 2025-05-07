@@ -50,7 +50,7 @@
 - Twitter: [@hsn_dv](https://twitter.com/hsn_dv)  
 - LinkedIn: [Hasan Alshikh](https://linkedin.com/in/hasan-alshikh)  
 - 📧 Email: s7s.dev@gmail.com  
-- 📂 Portfolio: [View Resume](https://drive.google.com/file/d/1fVBicZHKNLxb7OnAPbnMI2ZNKdRsFAqI/view)
+- 📂 Portfolio: [View Resume](https://drive.google.com/file/d/1QD6xTrWfbeNLsoHVuqvDBOLIZJJy7Ocg/view)
 
 ---
 
